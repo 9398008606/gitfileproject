@@ -1,0 +1,6 @@
+this is a python
+a=int(input())
+b=int(input())
+c=a+b
+print(c)
+this project is about addition of two numbers
